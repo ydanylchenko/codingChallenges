@@ -11,6 +11,7 @@
     <modules>
         <module>hackerrank</module>
         <module>codewars</module>
+        <module>custom</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>
