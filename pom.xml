@@ -14,7 +14,7 @@
         <module>custom</module>
     </modules>
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.compiler.source>13</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
         <maven.resources.encoding>UTF-8</maven.resources.encoding>
